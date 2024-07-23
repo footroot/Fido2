@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "web-auth/webauth-lib": "^3.3",
+        "league/oauth2-client": "^2.6"
+    }
+}
